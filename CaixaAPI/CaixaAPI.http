@@ -1,0 +1,6 @@
+@CaixaAPI_HostAddress = http://localhost:5015
+
+GET {{CaixaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
